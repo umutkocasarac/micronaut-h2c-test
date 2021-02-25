@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: test
+  server:
+    http-version: 2.0
